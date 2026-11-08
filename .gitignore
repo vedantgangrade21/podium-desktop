@@ -1,0 +1,7 @@
+# Built program (rebuild with npm run build in _source)
+/app/
+
+# Recent list and crash-recovery copies of decks
+/data/
+
+/_source/node_modules/

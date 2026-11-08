@@ -1,0 +1,13 @@
+{
+    "name":  "podium-desktop",
+    "version":  "1.0.0",
+    "private":  true,
+    "description":  "Electron layer around the browser version of Podium",
+    "scripts":  {
+                    "build":  "node build.js"
+                },
+    "devDependencies":  {
+                            "@electron/packager":  "20.3.0",
+                            "electron":  "45.2.3"
+                        }
+}
